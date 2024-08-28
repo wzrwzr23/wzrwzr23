@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zhuoran</h1>
-<h3 align="center">A passionate frontend developer based in Singapore</h3>
+<h3 align="center">A passionate full-stack developer based in Singapore</h3>
 
-- 🌱 I’m currently learning **software testing and IoT**
+- 🌱 I’m currently learning **5G OpenRAN and test automation**
 
 - 📫 How to reach me **zhuoranwang2@gmail.com**
 
